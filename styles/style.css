@@ -1,0 +1,30 @@
+.img1{
+    background-image: linear-gradient(45deg, 
+    rgba(0,0,0,0.3),
+    rgba(0,0,0,0.3)), 
+    url("../Images/2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 16px;
+}
+.img2{
+    background-image: linear-gradient(45deg, 
+    rgba(0,0,0,0.3),
+    rgba(0,0,0,0.3)), 
+    url("../Images/3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 16px;
+}
+.img3{
+    background-image: linear-gradient(45deg, 
+    rgba(0,0,0,0.3),
+    rgba(0,0,0,0.3)), 
+    url("../Images/4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 16px;
+}
